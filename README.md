@@ -1,5 +1,5 @@
-scripts4golly
-=============
+Scripts for Golly
+=================
 
 ### Description ###
 
@@ -16,7 +16,9 @@ So the path to my custom folder should be:
 
 C:\Users\math4tots\Documents\tools\golly-2.5-win\Scripts\Python\custom
 
+![which directory](screenshots/usingscript3.png "custom directory")
+
 Then to use it, simply double click on the script that you want to run from the
 scripts list:
 
-![image of running script](screenshots/usingscript2.png "How to use")
+![running script](screenshots/usingscript2.png "How to use")
