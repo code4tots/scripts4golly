@@ -19,4 +19,4 @@ C:\Users\math4tots\Documents\tools\golly-2.5-win\Scripts\Python\custom
 Then to use it, simply double click on the script that you want to run from the
 scripts list:
 
-[image of running script](screenshots/usingscript2.png)
+![image of running script](screenshots/usingscript2.png "How to use")
