@@ -1,12 +1,10 @@
 scripts4golly
 =============
 
-Description
------------
+###Description###
 
 Some scripts for playing around with golly.
 
-Installation
-------------
+###Installation###
 
 Simply place the 
